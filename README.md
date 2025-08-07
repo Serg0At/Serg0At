@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I’m Serg 👋<br><br>🔭 Working on real-world backend projects with Node.js<br>👯 Looking to team up on useful web apps or API-heavy stuff  <br>🤝 Need some help with scaling, auth flows, and security tricks  <br>🌱 Slowly taming the chaos of servers, Docker, and data<br>💬 Ask me about JavaScript, Node.js, auth, or clean APIs  <br>
+# Hey, I’m Serg 👋<br><br>🔭 Working on real-world backend projects with Node.js<br>👯 Looking to team up on useful web apps or API-heavy stuff<br>💬 Ask me about JavaScript, Node.js, with clean APIs  <br>
 
 
 ## 🌐 Socials:
