@@ -6,7 +6,7 @@ Hey, I’m **Serg** 👋
 🔭 Building real-world backend projects with **Node.js**,  
     designing **high-load systems**, working with **CI/CD**,  
     and deploying using **Nginx** & **Docker**
-⚡ Tech I enjoy: **JavaScript, Node.js, PostgreSQL, Express, Nest**  
+⚡ Tech I enjoy: **JS/TS, Node.js, Express, Nest**  
 🖥️ Can also create **full-stack apps** with **React** ⚛️ & **Next.js** 🚀  
 👯 Open to teaming up on **useful web apps** & **API-heavy projects**  
 💬 Ask me about **JavaScript, Node.js, and designing clean APIs**  
