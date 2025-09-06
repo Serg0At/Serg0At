@@ -4,8 +4,7 @@ Hey, I’m **Serg** 👋
 
 🌍 Based in **Armenia**, open to remote-friendly work 🌐  
 🔭 Building real-world backend projects with **Node.js**,  
-    designing **high-load systems**, working with **CI/CD**,  
-    and deploying using **Nginx** & **Docker**
+    designing **high-load systems**
 ⚡ Tech I enjoy: **JS/TS, Node.js, Express, Nest**  
 🖥️ Can also create **full-stack apps** with **React** ⚛️ & **Next.js** 🚀  
 👯 Open to teaming up on **useful web apps** & **API-heavy projects**  
