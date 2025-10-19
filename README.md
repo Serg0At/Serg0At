@@ -5,7 +5,7 @@ Hey, I’m **Serg** 👋
 🌍 Based in **Armenia**, open to remote-friendly work 🌐  
 🔭 Building real-world backend projects with **Node.js**,  
     designing **high-load systems**
-⚡ Tech I enjoy: **JS/TS, Node.js, Express, Nest**  
+⚡ Tech I enjoy: **JS/TS, Node.js**  
 🖥️ Can also create **full-stack apps** with **React** ⚛️ & **Next.js** 🚀  
 👯 Open to teaming up on **useful web apps** & **API-heavy projects**  
 💬 Ask me about **JavaScript, Node.js, and designing clean APIs**  
@@ -38,7 +38,6 @@ Hey, I’m **Serg** 👋
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
@@ -59,12 +58,6 @@ Hey, I’m **Serg** 👋
 
 ---
 
-## 📱 Cross-Platform / Desktop / Mobile
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
----
-
 ## ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -76,12 +69,6 @@ Hey, I’m **Serg** 👋
 ## 🔍 Monitoring & Documentation
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-## 🧰 Testing / Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
 
 ---
 
