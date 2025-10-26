@@ -5,7 +5,7 @@ Hey, I’m **Serg** 👋
 🌍 Based in **Armenia**, open to remote-friendly work 🌐  
 🔭 Building real-world backend projects with **Node.js**, designing **high-load systems**  
 🖥️ Can also create **full-stack apps** with **React** ⚛️ & **Next.js** 🚀  
-👯 Open to teaming up on **useful web apps** & **API-heavy projects**  
+👥 Open to teaming up on **useful web apps** & **API-heavy projects**  
 💬 Ask me about **JavaScript, Node.js, and designing clean architecture and APIs**  
 
 ## 🌐 Socials:
