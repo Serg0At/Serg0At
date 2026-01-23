@@ -1,13 +1,3 @@
-# 💫 About Me  
-
-Hey, I’m **Serg** 👋  
-
-🌍 Based in **Armenia**, open to remote-friendly work 🌐  
-🔭 Building real-world backend projects with **Node.js**, designing **high-load systems**  
-🖥️ Can also create **full-stack apps** with **React** ⚛️ & **Next.js** 🚀  
-👥 Open to teaming up on **useful web apps** & **API-heavy projects**  
-💬 Ask me about **JavaScript, Node.js, and designing clean architecture and APIs**  
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/serrrrrrg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_atoyan.serg) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/AdvancedArtichoke635) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serg114454@gmail.com) 
 
