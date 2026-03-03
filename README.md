@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/serrrrrrg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_atoyan.serg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serg114454@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_atoyan.serg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serg114454@gmail.com) 
 
 # 💻 Tech Stack
 
